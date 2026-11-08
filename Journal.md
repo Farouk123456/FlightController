@@ -11,3 +11,8 @@ This is propably the densest pcb i've evcer made
 
 OK im done with the weekend party and i can finish what i started today
 tomorrow its software time
+
+Day 2:
+
+Bad start im trying to import my pcb model int fusion 360 to make a sketch that will definitely fit but its hanging instead of being turned to a body because it has too many triangles
+
