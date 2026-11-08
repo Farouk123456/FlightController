@@ -16,3 +16,4 @@ Day 2:
 
 Bad start im trying to import my pcb model int fusion 360 to make a sketch that will definitely fit but its hanging instead of being turned to a body because it has too many triangles
 
+Wow this took much longer than i expected i had to dig theough the internet to find the dimentsions of the rotor and servos a want to use but in the end i have something that'll hopefully work and not immediately break
